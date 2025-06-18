@@ -16,6 +16,8 @@ Sebuah backend sederhana untuk aplikasi CRUD (Create, Read, Update, Delete) yang
 ---
 
 ## 📁 Struktur Direktori
+
+```bash
 src/
 │
 ├── domain/ # Entity dan interface repository
